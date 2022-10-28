@@ -11,5 +11,8 @@ i made a barebones uph level list site created with 90% of html which you can fi
 
 the reason why i made this github account at 4/28/2022 somewhere 8 PM just to fork someone else workjjskl fdgjkldfjgl
 
+### October 28, 2022
+hi guys
+
 ### April 28, 2022 - Test
 Moving index page for testing, I do not know if it's going to work or not but all I know is that the code is flawed

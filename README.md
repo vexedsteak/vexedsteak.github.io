@@ -12,4 +12,4 @@ A catalogue of levels that are created by Filipinos sorted by Difficulty
 
 ## Batch files that people can easily replicate
 ### Cock and ball torture
-a batch script i created on school computer recreated on my pc, and tested on my windows 11 vm - (cbt)[https://github.com/vexedsteak/cbt]
+a batch script i created on school computer recreated on my pc, and tested on my windows 11 vm - [cbt](https://github.com/vexedsteak/cbt)

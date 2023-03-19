@@ -8,7 +8,7 @@ i only make garbage stuff here for fun
 
 A catalogue of levels that are created by Filipinos sorted by Difficulty
 
-https://bit.ly/PHLevelList
+[Philippines Level List (Google Docs)](https://bit.ly/PHLevelList)
 
 ## Batch files that people can easily replicate
 ### Cock and ball torture

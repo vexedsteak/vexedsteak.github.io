@@ -12,4 +12,4 @@ https://bit.ly/PHLevelList
 
 ## Batch files that people can easily replicate
 ### Cock and ball torture
-a batch script i created on school computer recreated on my pc, and tested on my windows 11 vm
+a batch script i created on school computer recreated on my pc, and tested on my windows 11 vm - https://github.com/vexedsteak/cbt

@@ -4,15 +4,12 @@ i only make garbage stuff here for fun
 
 ## Stuff I made
 ### uPH Level List
-![uPH Level List](https://media.discordapp.net/attachments/944950635604877312/969206432408940554/Untitled207.jpg?width=427&height=240 "uPH Level List")
+![uPH Level List](https://cdn.discordapp.com/attachments/944950635604877312/1086928161733890229/Untitled479_1_1_1.jpg "uPH Level List")
 
-i made a barebones uph level list site created with 90% of html which you can find it here:
-<https://geometrydashph.tk>
+A catalogue of levels that are created by Filipinos sorted by Difficulty
 
-the reason why i made this github account at 4/28/2022 somewhere 8 PM just to fork someone else workjjskl fdgjkldfjgl
+https://bit.ly/PHLevelList
 
-### October 28, 2022
-hi guys
-
-### April 28, 2022 - Test
-Moving index page for testing, I do not know if it's going to work or not but all I know is that the code is flawed
+## Batch files that people can easily replicate
+### Cock and ball torture
+a batch script i created on school computer recreated on my pc, and tested on my windows 11 vm
